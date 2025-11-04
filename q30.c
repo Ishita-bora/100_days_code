@@ -1,3 +1,5 @@
+Write a program to reverse a given number
+
 #include <stdio.h>
 int main() {
     int reversed = 0, n, remainder, original;
