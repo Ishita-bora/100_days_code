@@ -1,3 +1,6 @@
+Write a program to check if a number is a strong number.
+
+    
 #include <stdio.h>
 int main() {
     int n, strong_sum = 0, original, digit, digits = 0;
