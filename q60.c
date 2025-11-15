@@ -1,3 +1,6 @@
+Count positive, negative, and zero elements in an array.
+
+    
 #include <stdio.h>
 int main() {
     int n, i, positive_count = 0, negative_count = 0, zero_count = 0;
