@@ -1,3 +1,6 @@
+Count even and odd numbers in an array.
+
+
 #include <stdio.h>
 int main() 
 {
