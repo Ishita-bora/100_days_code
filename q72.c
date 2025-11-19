@@ -1,3 +1,5 @@
+Find the sum of all elements in a matrix.
+    
 #include <stdio.h>
 int main() {
     int n, i, row, col, sum = 0;
